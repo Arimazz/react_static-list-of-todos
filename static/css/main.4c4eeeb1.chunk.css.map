@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,OACE,WAAY,CACZ,YACF","file":"main.4c4eeeb1.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.table {\n  margin: auto;\n  width: 1000px;\n}\n"]}
